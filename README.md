@@ -94,3 +94,5 @@ Open browser and go to:
 
 🎓 Class/Batch: 2021-2025
 
+#"I created an inventory system in PHP where we can add products and generate a QR code using the SKU. I used phpqrcode library for QR creation, and MySQL for storing product details. The system also lets us delete items and see all product data in one place."
+
