@@ -40,13 +40,13 @@ Hey! This is a mini PHP project made by me where we can manage products like in 
 
 ---
 
-### Step 3: Create Database
+## Step 3: Create Database
 
 1. Open browser → go to `http://localhost/phpmyadmin`
 2. Create a database called: `inventory`
 3. Inside that DB, run this SQL:
 
-### Step 4 Edit  (db.php)
+## Step 4 Edit  (db.php)
 
 Make sure this file has your DB connection:
 
@@ -70,7 +70,7 @@ if ($conn->connect_error) {
 }
 ?>
 
-###  Step 5: Enable GD Extension
+## Step 5: Enable GD Extension
 
 For QR code to work, do this:
 
@@ -84,7 +84,7 @@ extension=gd
 
 Save it and restart Apache
 
-### Step 6: Run the Project
+## Step 6: Run the Project
 Open browser and go to:
 ### http://localhost/inventory/add_product.php
 
