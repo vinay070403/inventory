@@ -89,3 +89,8 @@ Open browser and go to:
 ### http://localhost/inventory/add_product.php
 
 
+✍️ Made By
+👨‍🎓 Name: vinay chavada
+
+🎓 Class/Batch: e.g. 2021-2025
+
