@@ -92,5 +92,5 @@ Open browser and go to:
 ✍️ Made By
 👨‍🎓 Name: vinay chavada
 
-🎓 Class/Batch: e.g. 2021-2025
+🎓 Class/Batch: 2021-2025
 
